@@ -4,8 +4,8 @@ Plugin URI: https://themezee.com/plugins/widget-bundle/
 Contributors: themezee
 Tags: Widget, ThemeZee, Recent Posts, Social Icons, Tab Widget
 Requires at least: 5.2
-Tested up to: 6.9
-Stable tag: 1.7
+Tested up to: 7.0
+Stable tag: 1.8
 License: GPLv2 or later
 
 A collection of useful widgets, neatly bundled into a single plugin.
@@ -40,6 +40,10 @@ For detailed setup instructions, visit the official [Documentation](https://them
 5. Tabbed Content Widget
 
 == Changelog ==
+
+= 1.8 =
+
+* added TikTok to Social Icons widget
 
 = 1.7 =
 

@@ -217,7 +217,7 @@ class TZWB_Social_Icons_Widget extends WP_Widget {
 
 		// Create SVG markup.
 		$svg  = '<svg class="icon icon-' . esc_attr( $icon ) . '" aria-hidden="true" role="img">';
-		$svg .= ' <use xlink:href="' . TZWB_PLUGIN_URL . 'assets/icons/social-icons.svg?ver=20251220#icon-' . esc_html( $icon ) . '"></use> ';
+		$svg .= ' <use xlink:href="' . TZWB_PLUGIN_URL . 'assets/icons/social-icons.svg?ver=20260806#icon-' . esc_html( $icon ) . '"></use> ';
 		$svg .= '</svg>';
 
 		return $svg;
@@ -272,6 +272,7 @@ class TZWB_Social_Icons_Widget extends WP_Widget {
 			'stumbleupon.com' => 'stumbleupon',
 			'telegram'        => 'telegram',
 			't.me'            => 'telegram',
+			'tiktok.com'      => 'tiktok',
 			'tumblr.com'      => 'tumblr',
 			'twitch.tv'       => 'twitch',
 			'twitter.com'     => 'twitter',
